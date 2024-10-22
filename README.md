@@ -1,2 +1,2 @@
 # Project: Recipes
-Foundation Course
+$1^{st}$ project of the `Foundation Course`
