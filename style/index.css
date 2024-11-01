@@ -1,0 +1,12 @@
+html {
+    background-color: #282828;
+}
+
+* {
+    color: #D5C4A1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    font-style: italic;
+}
