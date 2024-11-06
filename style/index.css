@@ -18,7 +18,7 @@ a {
 .goback {
     text-align: center;
     box-sizing: border-box;
-    outline: #D5C4A1 solid 1px;
+    outline: #D5C4A1 solid 2px;
     border-radius: 10px;
     padding: 10px;
     max-width: fit-content;
