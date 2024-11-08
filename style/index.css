@@ -30,3 +30,10 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
+
+.random-highlight,
+.random-highlight-link {
+    background-color: #e6945c;
+    color: #282828;
+    font-style: normal;
+}
