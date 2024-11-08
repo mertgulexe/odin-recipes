@@ -23,8 +23,8 @@ a {
 
 .goback {
     text-align: center;
-    border: 2px solid #D5C4A1 ;
-    border-radius: 10px;
+    border: 1.5px solid #D5C4A1 ;
+    border-radius: 300px;
     padding: 10px;
     max-width: fit-content;
     margin-left: auto;
