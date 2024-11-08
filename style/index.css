@@ -2,6 +2,7 @@
 *::before,
 *::after {
     box-sizing: border-box;
+    /* border: 1px solid #ff000060; */
 }
 
 * {
@@ -11,14 +12,12 @@
 
 body {
     background-color: #282828;
+    width: 800px;
+    margin: 30px auto;
 }
 
 a {
     font-style: italic;
-}
-
-.center-text {
-    text-align: center;
 }
 
 .goback {
