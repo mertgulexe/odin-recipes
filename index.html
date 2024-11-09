@@ -7,21 +7,24 @@
         <link rel="stylesheet" href="./style/index.css">
     </head>
     <body>
-        <h1>Odin Recipes</h1>
-        <p>Available <em>Tuna Salad</em> recipes:</p>
-        <!--
-            There was a <p> here but needed to deleted it even though it didn't
-            cause any error while rendering. The error was:
+        <div class="article">
+            <h1>Odin Recipes</h1>
+            <p>Available <em>Tuna Salad</em> recipes:</p>
+            <!--
+                There was a <p> here but needed to deleted it even though it didn't
+                cause any error while rendering. The error was:
                 `No “p” element in scope but a “p” end tag seen.`
-            I have learned that it cannot contain block-level element like <ul>
-            in this case. So simply removing the <p> element is enough.
-        -->
-        <ul>
-            <li><a href="./recipes/barbiets.html" target="_self" rel="noreferrer">Barbie's Tuna Salad</a></li>
-            <li><a href="./recipes/quickts.html" rel="noreferrer">Quick Tuna Salad</a></li>
-            <li><a href="./recipes/macaronits.html" rel="noopener noreferrer">Cold Macaroni and Tuna Salad</a></li>
-        </ul>
-        <div class="goback" style="width: 250px;">
+                I have learned that it cannot contain block-level element like <ul>
+                in this case. So simply removing the <p> element is enough.
+                Remember: "An inline element cannot contain a block-level element!"
+            -->
+            <ul>
+                <li><a href="./recipes/barbiets.html" target="_self" rel="noreferrer">Barbie's Tuna Salad</a></li>
+                <li><a href="./recipes/quickts.html" rel="noreferrer">Quick Tuna Salad</a></li>
+                <li><a href="./recipes/macaronits.html" rel="noopener noreferrer">Cold Macaroni and Tuna Salad</a></li>
+            </ul>
+        </div>
+        <div class="goback">
             <a href="https://github.com/mertgulexe/odin-recipes" rel="noreferrer" target="_blank">Code of this website</a>
         </div>
     </body>

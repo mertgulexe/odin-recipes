@@ -20,14 +20,18 @@ a {
     font-style: italic;
 }
 
+.article {
+    background-color: #303030;
+    padding: 10px 20px;
+}
 .goback {
     text-align: center;
     border: 1.5px solid #D5C4A1 ;
     border-radius: 300px;
     padding: 10px;
+    width: 250px;
     max-width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 10px auto 0px auto;
 }
 
 .random-highlight,
