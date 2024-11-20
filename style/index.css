@@ -20,6 +20,13 @@ a {
     font-style: italic;
 }
 
+img {
+    display: block;
+    align-content: center;
+    margin: 10px auto;
+    border-radius: 10%;
+}
+
 .article {
     background-color: #303030;
     padding: 10px 20px;
