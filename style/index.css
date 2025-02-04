@@ -1,8 +1,12 @@
+html {
+    box-sizing: border-box;
+    /* border: 1px solid #ff000060; */
+}
+
 *,
 *::before,
 *::after {
-    box-sizing: border-box;
-    /* border: 1px solid #ff000060; */
+    box-sizing: inherit;
 }
 
 * {
