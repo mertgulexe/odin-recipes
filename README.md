@@ -1,4 +1,3 @@
 # 1. Project: Recipes
-$1^{st}$ project of the `Foundation Course`
-## 1.1. Notes:
-* It is as simple as it gets :)
+* $1^{st}$ project of the `Foundation Course`
+* Here is the link to [the course page](https://www.theodinproject.com/lessons/foundations-recipes).
